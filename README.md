@@ -7,6 +7,8 @@
 * Hypervisor: VirtualBox 6.1
 * Guest: Ubuntu 22.04
 * JavaScript
+* HTML
+* CSS
 * Node.js v19.9.0
 * Docker v20.10.24, build 297e128
 
@@ -51,7 +53,7 @@ Port forwarding is enabled between the VM and the host. The Docker container wil
 Stop the docker container
 
 <pre>
-sudo docker stop <instance name>
+sudo docker stop instance-name
 </pre>
 
 List stopped instances and permanently remove it.
