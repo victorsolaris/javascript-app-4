@@ -1,6 +1,6 @@
 # javascript-app-4
 
-*Key*:
+**Key**:
 
 * Host: Windows 10
 * IDE: Visual Studio Code
