@@ -1,6 +1,7 @@
+# javascript-app-4
 ### node.js
 
-This project build a simple "Hello, word!" application using node.js and Docker. 
+This project builds a simple "Hello, word!" application using node.js and Docker. 
 
 1. Build the Docker file
 
