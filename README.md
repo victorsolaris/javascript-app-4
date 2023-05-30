@@ -21,7 +21,7 @@ sudo docker image ls
 sudo docker run -p 3000:3000 -d js-app-4:1.0
 </pre>
 
--p : specify ports host:guest
+-p : specify ports host:guest \
 -d : run in detached mode (background)
 
 4. View running containers
