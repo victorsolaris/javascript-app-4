@@ -1,5 +1,15 @@
 # javascript-app-4
-### node.js
+
+*Key*:
+
+* Host: Windows 10
+* IDE: Visual Studio Code
+* Hypervisor: VirtualBox 6.1
+* Guest: Ubuntu 22.04
+* JavaScript
+* Node.js v19.9.0
+* Docker v20.10.24, build 297e128
+
 
 This project builds a simple "Hello, word!" application using node.js and Docker. 
 
