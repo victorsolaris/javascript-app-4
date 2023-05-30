@@ -61,7 +61,7 @@ sudo docker ps -a
 </pre>
 
 <pre>
-sudo docker rm <container id>
+sudo docker rm container-id
 </pre>
 
 ### **References**:
