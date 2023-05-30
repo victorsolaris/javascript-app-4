@@ -46,6 +46,23 @@ sudo docker ps
 
 Port forwarding is enabled between the VM and the host. The Docker container will route to from its port 3000 to the guest port 3000 and finally to the host port 3000. In the browser search localhost:3000. 
 
+6. Clean up
+
+Stop the docker container
+
+<pre>
+sudo docker stop <instance name>
+</pre>
+
+List stopped instances and permanently remove it.
+
+<pre>
+sudo docker ps -a
+</pre>
+
+<pre>
+sudo docker rm <container id>
+</pre>
 
 ### **References**:
 
