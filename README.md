@@ -1,6 +1,6 @@
 # javascript-app-4
 
-**Key**:
+### **Key**:
 
 * Host: Windows 10
 * IDE: Visual Studio Code v1.78.2
@@ -10,8 +10,10 @@
 * Node.js v19.9.0
 * Docker v20.10.24, build 297e128
 
-
+### **Summary**:
 This project builds a simple "Hello, word!" application using node.js and Docker. 
+
+### **Instructions**:
 
 1. Build the Docker file
 
@@ -43,3 +45,9 @@ sudo docker ps
 5. View app in browser
 
 Port forwarding is enabled between the VM and the host. The Docker container will route to from its port 3000 to the guest port 3000 and finally to the host port 3000. In the browser search localhost:3000. 
+
+
+### **References**:
+
+* https://nodejs.org/en/docs
+* https://docs.docker.com/
